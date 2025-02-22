@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function(){
         const cardsData = [
             {label: "OverAll Submission", value: data.totalSolved},
             {label: "AcceptanceRate of code", value: data.acceptanceRate},
-            {label: "Rnking", value: data.ranking},
+            {label: "Ranking", value: data.ranking},
             {label: "Contribution Points", value: data.contributionPoints}
         ];
 
